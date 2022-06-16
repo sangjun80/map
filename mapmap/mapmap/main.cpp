@@ -33,13 +33,19 @@ int main(void)
 		cout << iter->first << endl;
 		cout << iter->second << endl << endl;
 	}
-	*/
 
 	enum { aaa, bbb, ccc, ddd, eee };
 
 	const int Max = 10;
 
 	int Array[Max];
+
+	*/
+
+
+
+
+
 
 
 	return 0;
